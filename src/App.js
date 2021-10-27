@@ -1,6 +1,7 @@
 import React from 'react';
 import teams from "./teams.json";
 import Dreamteam from "./component/Dreamteam"
+import "./App.css"
 
 class App extends React.Component {
   render() {
@@ -12,7 +13,7 @@ class App extends React.Component {
     )
 
     return (
-      <div> 
+      <div className="containt"> 
         {mappedTeam}  
       </div>
       
