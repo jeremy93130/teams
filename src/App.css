@@ -1,5 +1,5 @@
 body {
-  background-image: url(https://www.leparisien.fr/resizer/oSr5bWqbrsNs_lGd-BdpCpCWimM=/932x582/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/JTRNBQ4JGWIXM5AS4SPLTCPQJY.jpg);
+  background-image: url(https://photo.maxifoot.fr/premier-league-13.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% auto;
@@ -38,10 +38,5 @@ img {
 
 .infos p {
   margin: 10px 0;
-  color: white;
-}
-
-.infos h2 {
-  color: white;
 }
 
